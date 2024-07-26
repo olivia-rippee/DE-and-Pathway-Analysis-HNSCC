@@ -1,0 +1,280 @@
+bcr_patient_barcode,age at diagnosis,days_to_last_followup,gender,histological_type,cancer_status,vital_status
+TCGA-BA-4074,69,461,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-BA-4076,39,415,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-BA-4077,45,1134,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-BA-4078,83,276,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-BA-5149,47,248,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-BA-5151,72,190,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-BA-5152,56,845,MALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-BA-5153,51,1761,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-BA-5555,54,186,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-BA-5556,58,179,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-BA-5557,41,242,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-BA-5558,65,1635,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-BA-5559,71,1747,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-BA-6868,53,152,MALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-BA-6869,62,244,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-BA-6870,60,450,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-BA-6871,75,63,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-BA-6872,47,395,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-BA-6873,28,113,MALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-BA-7269,61,236,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-BB-4217,68,186,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-BB-4223,48,2891,MALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-BB-4224,52,275,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-BB-4225,73,140,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-BB-4228,50,557,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4723,67,412,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4725,60,310,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4726,68,142,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CN-4727,56,194,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4728,56,325,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4729,73,166,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4730,62,343,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4731,63,383,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4733,61,522,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4735,52,369,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4736,70,395,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CN-4737,19,240,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4738,53,436,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CN-4739,71,348,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4740,79,810,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-CN-4741,75,875,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-4742,48,397,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CN-5355,64,279,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-5356,56,289,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-5358,60,173,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-5359,59,377,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CN-5360,68,866,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-5363,48,252,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CN-5364,55,493,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CN-5365,38,351,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CN-5366,51,360,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CN-5367,60,352,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CN-5369,90,380,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CN-5370,78,259,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CN-5373,55,413,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-5374,56,274,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6010,53,207,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6011,57,228,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6012,66,143,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6013,56,154,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6016,64,201,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6017,55,159,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6018,85,45,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6019,61,134,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6020,58,97,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6021,63,276,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CN-6022,49,201,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6023,73,188,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6024,66,224,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-CN-6988,47,42,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6989,64,177,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6992,61,83,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6994,67,119,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CN-6995,78,112,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CN-6997,66,100,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-CN-6998,53,46,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-5323,82,1465,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-5324,59,1207,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-5325,65,654,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CQ-5326,67,89,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CQ-5329,46,841,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-5330,69,896,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-5331,73,1028,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-5332,87,317,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CQ-5334,87,128,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CQ-6218,52,870,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-6220,69,984,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CQ-6221,79,1000,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-6223,69,1057,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-6224,52,984,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-6225,65,403,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CQ-6227,77,128,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CQ-6228,71,455,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CQ-6229,61,814,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-7065,40,1006,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CQ-7068,80,693,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-5243,51,2562,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-5247,48,358,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-5248,53,1662,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-CR-5249,35,1152,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-5250,71,798,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6467,59,1777,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6470,38,1521,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6471,58,1202,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CR-6472,59,1050,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6473,68,1125,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6474,51,563,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CR-6477,56,514,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6478,66,183,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CR-6481,47,311,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6482,62,345,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6484,67,354,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6487,50,233,MALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-CR-6488,68,379,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6491,60,350,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6492,78,479,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-6493,69,282,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CR-7364,66,1435,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7365,60,1190,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7367,52,1440,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7368,54,1244,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7369,59,1090,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CR-7370,72,104,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7371,45,93,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CR-7372,45,759,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7373,66,889,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7374,67,30,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-CR-7376,83,972,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7377,58,NA,MALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-CR-7379,78,1036,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7380,58,606,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CR-7382,49,796,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7383,79,521,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CR-7385,42,997,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7386,69,1430,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-CR-7388,70,822,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CR-7389,55,392,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7390,67,907,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7391,36,913,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7392,67,946,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7393,26,908,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7394,70,898,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7395,80,929,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7397,44,216,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7398,53,156,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7399,60,180,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7401,64,1077,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7402,68,910,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CR-7404,53,1471,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-CV-5430,61,4115,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5431,73,522,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-5432,68,3930,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5434,60,3295,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-5435,57,1438,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-5436,65,584,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-5439,62,546,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-5440,52,2732,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5441,58,2663,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5442,76,2326,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5443,63,2567,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5444,64,1969,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5966,63,519,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-5970,59,406,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-5971,60,540,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5973,62,1736,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5976,50,1478,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5977,66,1007,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-5978,53,215,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-5979,26,1315,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-6003,50,1246,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-6433,57,405,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-6436,62,743,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-CV-6441,60,179,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6933,53,2740,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-6934,66,65,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6935,67,295,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6936,68,166,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6937,71,624,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-6938,87,143,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6939,60,665,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6940,80,804,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-6941,51,342,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-6942,73,3835,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-6943,74,602,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6945,41,366,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6948,79,1288,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-6950,64,458,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6951,57,914,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6952,65,185,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-6953,80,1640,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-6954,59,2002,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-6955,74,334,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6956,67,217,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6959,48,255,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-6960,49,861,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-6961,61,76,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-6962,65,126,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-7089,74,1971,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-7090,39,3836,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7091,54,3380,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7095,87,572,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-7097,53,385,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7099,85,243,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7100,66,274,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7101,80,159,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-7102,76,56,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7103,49,1591,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7104,61,392,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7177,82,662,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7178,64,2166,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7180,34,327,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7183,53,3496,MALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-CV-7235,67,1724,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7236,77,144,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-7238,69,1444,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7242,60,1095,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7243,50,953,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7245,62,797,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7247,55,577,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7248,63,520,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-CV-7250,64,2900,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7252,62,151,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7253,58,361,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7254,55,1459,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7255,32,64,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7261,57,1099,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7263,64,560,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7406,49,1748,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7407,67,1081,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7410,61,6416,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7411,64,2717,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7413,74,294,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7414,78,14,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7415,60,695,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7416,29,761,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7418,62,789,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7421,76,2,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7422,60,1037,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7423,65,3058,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7424,67,452,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7427,73,4760,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7429,55,106,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7430,56,495,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7432,79,2570,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7433,49,600,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7434,64,217,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CV-7435,57,4334,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CV-7437,77,505,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7438,87,194,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-CV-7440,38,669,MALE,Head & Neck Squamous Cell Carcinoma,NA,DECEASED
+TCGA-CX-7082,82,316,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CX-7085,77,321,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CX-7086,53,236,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-CX-7219,47,828,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-D6-6515,82,403,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,DECEASED
+TCGA-D6-6516,69,325,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-D6-6517,59,250,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-D6-6823,50,238,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-D6-6824,61,77,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-D6-6825,73,152,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-D6-6826,64,153,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-DQ-5624,43,1149,FEMALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-DQ-5625,52,1058,FEMALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-DQ-5629,64,516,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-DQ-5630,73,477,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-DQ-5631,52,548,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-DQ-7588,66,427,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,DECEASED
+TCGA-DQ-7591,62,360,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-DQ-7592,57,299,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-F7-7848,47,35,MALE,Head & Neck Squamous Cell Carcinoma,NA,LIVING
+TCGA-H7-7774,75,30,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-HD-7229,60,2,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-HD-7753,62,5,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-HD-7754,69,25,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-HD-7831,74,0,MALE,Head & Neck Squamous Cell Carcinoma,WITH TUMOR,LIVING
+TCGA-HD-7832,52,0,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-IQ-7630,49,160,MALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-IQ-7631,60,122,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
+TCGA-IQ-7632,68,113,FEMALE,Head & Neck Squamous Cell Carcinoma,TUMOR FREE,LIVING
